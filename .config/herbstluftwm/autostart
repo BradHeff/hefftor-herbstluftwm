@@ -30,7 +30,7 @@ run conky -c $HOME/.conkyrc_helper &
 nm-applet &
 # pamac-tray &
 run mpd &
-run glava &
+# run glava &
 run dunst &
 xfce4-power-manager &
 numlockx on &
